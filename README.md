@@ -1,6 +1,6 @@
 # proyecto-java-mgomezvela
 proyecto-java-mgomezvela created by GitHub Classroom
-# Proyecto del Segundo Cuatrimestre Fundamentos de Programación (Curso 2021/22)
+# Proyecto del Segundo Cuatrimestre Fundamentos de Programación (Curso 2022/23)
 Autor/a: Miguel Gómez Vela   uvus:miggomvel
 
 
