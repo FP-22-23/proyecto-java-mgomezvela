@@ -26,8 +26,8 @@ El dataset original YU-GI.OH-Normal_Monsters Dataset se puede obtener de la URL 
 * **Defense**: de tipo Integer, Indica los puntos de defensa de la carta
 * **EsHumano**: de tipo Boolean, de manera aleatoria dice si es o no humano. True-False
 * **FechaCarta**: de tipo LocalDate,de manera aleatoria genera una fecha.
-* **valores**: es un enumerado , con tres valores que son juan , luis y paco , los cuales seran los users de nuestro juego
-corresponde con el primer o segundo movimiento, sino que son las salidas y sus distintas variantes, por ejemplo, ```Queen's Pawn Game: Mason Attack```.
+* **valores**: es un enumerado , con tres valores que son juan , luis y paco , los cuales seran los users de nuestro juego.
+
 * **NombreDefensaAtaque** : tipo que hemos implementado manuelmente que es un record que devuelve el nombre, la defensa y el ataque de la carta
 * **NombreAtaque** : al necesitar un tipo lista, este es una lista a la que se le añade el nombre y ataque de la carta.
 
@@ -41,7 +41,7 @@ corresponde con el primer o segundo movimiento, sino que son las salidas y sus d
 * **EsHumano**: de tipo Boolean, de manera aleatoria dice si es o no humano. True-False
 * **FechaCarta**: de tipo LocalDate,de manera aleatoria genera una fecha.
 * **valores**: es un enumerado , con tres valores que son juan , luis y paco , los cuales seran los users de nuestro juego
-corresponde con el primer o segundo movimiento, sino que son las salidas y sus distintas variantes, por ejemplo, ```Queen's Pawn Game: Mason Attack```.
+
 * **NombreDefensaAtaque** : tipo que hemos implementado manuelmente que es un record que devuelve el nombre, la defensa y el ataque de la carta
 * **NombreAtaque** : al necesitar un tipo lista, este es una lista a la que se le añade el nombre y ataque de la carta.
 
@@ -60,6 +60,6 @@ corresponde con el primer o segundo movimiento, sino que son las salidas y sus d
 
 **Criterio de ordenación**: Las cartas se ordenan en base a Attack, Attributes, Defense, EsHumano, FechaCarta, Level, Name, SubTypes, valores
 
-#### Tipos auxiliares-carta
-Representa el nombre defensa y ataque.
+#### Tipos auxiliares-carta: NombreDefensaAtaque
+Es un record que representa el nombre defensa y ataque de la carta en cuestión.
 
