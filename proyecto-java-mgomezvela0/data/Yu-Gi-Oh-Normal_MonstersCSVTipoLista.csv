@@ -1,0 +1,479 @@
+Name;Attributes;Sub-Types;Level;Attack_Points;Defense_Points;;;;;TipoLista;esHumano,FechaCarta,hpCarta
+7 Colored Fish;Water;Fish;4;1800;800;;;;;juan,paco,luis;false,8/10/2022,2
+Acrobat Monkey;Earth;Machine;3;1000;1800;;;;;juan,paco,luis;false,8/5/2022,53
+Aitsu;Fire;Fairy;5;100;100;;;;;juan,paco,luis;true,1/8/2023,95
+Alexandrite Dragon;Light;Dragon;4;2000;100;;;;;juan,paco,luis;false,7/13/2022,78
+Alien Shocktrooper;Earth;Reptile;4;1900;800;;;;;juan,paco,luis;false,4/8/2022,61
+Alinsection;Earth;Insect;3;950;700;;;;;juan,paco,luis;false,9/25/2022,86
+Alligator's Sword;Earth;Beast;4;1500;1200;;;;;juan,paco,luis;false,3/26/2022,89
+Ally of Justice Clausolas;Dark;Machine;6;2300;1200;;;;;juan,paco,luis;false,3/31/2022,96
+Alpha the Magnet Warrior;Earth;Rock;4;1400;1700;;;;;juan,paco,luis;true,8/14/2022,39
+Amazon of the Seas;Water;Fish;4;1300;1400;;;;;juan,paco,luis;true,8/21/2022,12
+Amphibian Beast;Water;Fish;6;2400;2000;;;;;juan,paco,luis;true,6/23/2022,21
+Ancient Brain;Dark;Fiend;3;1000;700;;;;;juan,paco,luis;false,8/5/2022,35
+Ancient Elf;Light;Spellcaster;4;1450;1200;;;;;juan,paco,luis;false,10/15/2022,52
+Ancient Lizard Warrior;Earth;Reptile;4;1400;1100;;;;;juan,paco,luis;false,3/31/2022,72
+Ancient One of the Deep Forest;Earth;Beast;6;1800;1900;;;;;juan,paco,luis;true,10/9/2022,62
+Ancient Tool;Dark;Machine;5;1700;1400;;;;;juan,paco,luis;false,4/10/2022,52
+Ansatsu;Earth;Warrior;5;1700;1200;;;;;juan,paco,luis;true,9/1/2022,39
+Anthrosaurus;Earth;Dinosaur;3;1000;850;;;;;juan,paco,luis;false,10/16/2022,54
+Aqua Madoor;Water;Spellcaster;4;1200;2000;;;;;juan,paco,luis;false,6/27/2022,75
+Archfiend Marmot of Nefariousness;Earth;Beast;2;400;600;;;;;juan,paco,luis;true,9/3/2022,33
+Archfiend Soldier;Dark;Fiend;4;1900;1500;;;;;juan,paco,luis;false,2/19/2023,59
+Armaill;Earth;Warrior;3;700;1300;;;;;juan,paco,luis;false,10/17/2022,82
+Armored Lizard;Earth;Reptile;4;1500;1200;;;;;juan,paco,luis;false,8/26/2022,66
+Armored Starfish;Water;Aqua;4;850;1400;;;;;juan,paco,luis;false,7/9/2022,95
+Armored Zombie;Dark;Zombie;3;1500;0;;;;;juan,paco,luis;false,4/19/2022,89
+Atlantean Pikeman;Water;Sea;2;1400;0;;;;;juan,paco,luis;false,9/6/2022,80
+Axe Raider;Earth;Warrior;4;1700;1150;;;;;juan,paco,luis;true,6/3/2022,39
+Baby Dragon;Wind;Dragon;3;1200;700;;;;;juan,paco,luis;false,5/9/2022,39
+Baron of the Fiend Sword;Dark;Fiend;4;1550;800;;;;;juan,paco,luis;false,1/21/2023,78
+Basic Insect;Earth;Insect;2;500;700;;;;;juan,paco,luis;false,3/25/2022,70
+Battle Footballer;Fire;Machine;4;1000;2100;;;;;juan,paco,luis;true,1/6/2023,1
+Battle Ox;Earth;Beast;4;1700;1000;;;;;juan,paco,luis;false,10/11/2022,21
+Battle Steer;Earth;Beast;5;1800;1300;;;;;juan,paco,luis;false,2/20/2023,60
+Battle Warrior;Earth;Warrior;3;700;1000;;;;;juan,paco,luis;true,11/30/2022,50
+Bean Soldier;Earth;Plant;4;1400;1300;;;;;juan,paco,luis;true,7/23/2022,42
+Beast of Talwar;Dark;Fiend;6;2400;2150;;;;;juan,paco,luis;true,2/18/2023,17
+Beautiful Headhuntress;Earth;Warrior;4;1600;800;;;;;juan,paco,luis;false,2/7/2023,37
+Beaver Warrior;Earth;Beast;4;1200;1500;;;;;juan,paco,luis;true,1/16/2023,45
+Beckoned by the World Chalice;Earth;Warrior;4;1800;0;;;;;juan,paco,luis;true,5/24/2022,93
+Behegon;Water;Aqua;4;1350;1000;;;;;juan,paco,luis;true,10/25/2022,74
+Beta the Magnet Warrior;Earth;Rock;4;1700;1600;;;;;juan,paco,luis;false,2/10/2023,36
+Big Insect;Earth;Insect;4;1200;1500;;;;;juan,paco,luis;true,12/4/2022,30
+Big Koala;Earth;Beast;7;2700;2000;;;;;juan,paco,luis;false,7/28/2022,2
+Bio-Mage;Light;Fairy;3;1150;1000;;;;;juan,paco,luis;false,11/3/2022,25
+Bitron;Earth;Cyberse;2;200;2000;;;;;juan,paco,luis;false,3/16/2022,21
+Blackland Fire Dragon;Dark;Dragon;4;1500;800;;;;;juan,paco,luis;true,9/16/2022,35
+Blade Skater;Earth;Warrior;4;1400;1500;;;;;juan,paco,luis;false,10/2/2022,61
+Blazing Inpachi;Fire;Pyro;4;1850;0;;;;;juan,paco,luis;false,5/22/2022,79
+Blocker;Dark;Machine;4;850;1800;;;;;juan,paco,luis;true,1/25/2023,16
+Blue-Eyed Silver Zombie;Dark;Zombie;3;900;700;;;;;juan,paco,luis;true,11/23/2022,9
+Blue-Eyes White Dragon;Light;Dragon;8;3000;2500;;;;;juan,paco,luis;false,12/2/2022,5
+Blue-Winged Crown;Wind;Winged;4;1600;1200;;;;;juan,paco,luis;true,6/2/2022,77
+Bokoichi the Freightening Car;Dark;Machine;2;500;500;;;;;juan,paco,luis;false,1/28/2023,80
+Bolt Penguin;Water;Thunder;3;1100;800;;;;;juan,paco,luis;false,1/26/2023,65
+Boneheimer;Water;Aqua;3;850;400;;;;;juan,paco,luis;false,12/10/2022,2
+Bottom Dweller;Water;Fish;5;1650;1700;;;;;juan,paco,luis;true,12/27/2022,42
+Bunilla;Earth;Beast;1;150;2050;;;;;juan,paco,luis;false,7/17/2022,27
+Burglar;Earth;Beast;3;850;800;;;;;juan,paco,luis;true,11/16/2022,4
+Celtic Guardian;Earth;Warrior;4;1400;1200;;;;;juan,paco,luis;true,9/4/2022,38
+Chamberlain of the Six Samurai;Earth;Warrior;3;200;2000;;;;;juan,paco,luis;true,9/1/2022,25
+Change Slime;Water;Aqua;1;400;300;;;;;juan,paco,luis;false,6/1/2022,17
+Charcoal Inpachi;Fire;Pyro;1;100;2100;;;;;juan,paco,luis;true,6/8/2022,52
+Chosen by the World Chalice;Fire;Psychic;3;1600;0;;;;;juan,paco,luis;false,6/20/2022,84
+Chu-Ske the Mouse Fighter;Earth;Beast;3;1200;0;;;;;juan,paco,luis;false,3/4/2023,41
+Claw Reacher;Dark;Fiend;3;1000;800;;;;;juan,paco,luis;true,8/8/2022,87
+Cloudian - Smoke Ball;Water;Fairy;1;200;600;;;;;juan,paco,luis;true,1/6/2023,39
+Clown Zombie;Dark;Zombie;2;1350;0;;;;;juan,paco,luis;true,9/3/2022,29
+Corroding Shark;Dark;Zombie;3;1100;700;;;;;juan,paco,luis;false,5/5/2022,45
+Cosmo Queen;Dark;Spellcaster;8;2900;2450;;;;;juan,paco,luis;false,12/5/2022,50
+Crawling Dragon;Earth;Dragon;5;1600;1400;;;;;juan,paco,luis;false,12/20/2022,76
+Crawling Dragon #2;Earth;Dinosaur;4;1600;1200;;;;;juan,paco,luis;true,3/31/2022,80
+Crazy Fish;Water;Fish;4;1600;1200;;;;;juan,paco,luis;true,6/9/2022,35
+Crowned by the World Chalice;Water;Spellcaster;2;0;2100;;;;;juan,paco,luis;false,1/13/2023,74
+Cure Mermaid;Water;Fish;4;1500;800;;;;;juan,paco,luis;false,12/16/2022,95
+Curse of Dragon;Dark;Dragon;5;2000;1500;;;;;juan,paco,luis;true,3/4/2023,72
+Cyber Falcon;Wind;Machine;4;1400;1200;;;;;juan,paco,luis;true,1/10/2023,78
+Cyber Soldier of Darkworld;Dark;Machine;4;1400;1200;;;;;juan,paco,luis;false,11/27/2022,57
+Cyber-Tech Alligator;Wind;Machine;5;2500;1600;;;;;juan,paco,luis;true,2/20/2023,93
+Cycroid;Earth;Machine;3;800;1000;;;;;juan,paco,luis;true,12/30/2022,6
+D. Human;Earth;Warrior;4;1300;1100;;;;;juan,paco,luis;true,9/23/2022,36
+D.D. Trainer;Dark;Fiend;1;100;2000;;;;;juan,paco,luis;true,4/10/2022,6
+Dancing Elf;Wind;Fairy;1;300;200;;;;;juan,paco,luis;true,10/6/2022,19
+Dark Assailant;Dark;Zombie;4;1200;1200;;;;;juan,paco,luis;true,9/10/2022,25
+Dark Bat;Wind;Winged;3;1000;1000;;;;;juan,paco,luis;true,10/10/2022,80
+Dark Blade;Dark;Warrior;4;1800;1500;;;;;juan,paco,luis;false,8/7/2022,58
+Dark Gray;Earth;Beast;3;800;900;;;;;juan,paco,luis;true,9/11/2022,6
+Dark King of the Abyss;Dark;Fiend;3;1200;800;;;;;juan,paco,luis;true,1/1/2023,51
+Dark Magician;Dark;Spellcaster;7;2500;2100;;;;;juan,paco,luis;true,5/17/2022,82
+Dark Rabbit;Dark;Beast;4;1100;1500;;;;;juan,paco,luis;false,11/6/2022,9
+Dark Titan of Terror;Dark;Fiend;4;1300;1100;;;;;juan,paco,luis;true,3/2/2023,15
+Dark Witch;Light;Fairy;5;1800;1700;;;;;juan,paco,luis;true,8/16/2022,51
+Darkfire Soldier #1;Fire;Pyro;4;1700;1150;;;;;juan,paco,luis;true,3/13/2022,85
+Darkfire Soldier #2;Fire;Pyro;4;1700;1100;;;;;juan,paco,luis;false,5/7/2022,46
+Darkworld Thorns;Earth;Plant;3;1200;900;;;;;juan,paco,luis;true,10/20/2022,59
+Destroyer Golem;Earth;Rock;4;1500;1000;;;;;juan,paco,luis;true,12/18/2022,37
+Dharma Cannon;Dark;Machine;2;900;500;;;;;juan,paco,luis;true,9/25/2022,62
+Dig Beak;Earth;Beast;2;500;800;;;;;juan,paco,luis;false,7/16/2022,100
+Digitron;Earth;Cyberse;2;1500;0;;;;;juan,paco,luis;true,1/3/2023,40
+Disk Magician;Dark;Machine;4;1350;1000;;;;;juan,paco,luis;true,12/30/2022,67
+Dissolverock;Earth;Rock;3;900;1000;;;;;juan,paco,luis;true,2/22/2023,22
+Divine Dragon Ragnarok;Light;Dragon;4;1500;1000;;;;;juan,paco,luis;true,2/15/2023,75
+Dokuroyaiba;Fire;Fiend;3;1000;400;;;;;juan,paco,luis;false,8/5/2022,62
+Doma the Angel of Silence;Dark;Fairy;5;1600;1400;;;;;juan,paco,luis;false,3/21/2022,19
+Dragon Zombie;Dark;Zombie;3;1600;0;;;;;juan,paco,luis;true,5/12/2022,32
+Drooling Lizard;Earth;Reptile;3;900;800;;;;;juan,paco,luis;false,6/20/2022,6
+Dunames Dark Witch;Light;Fairy;4;1800;1050;;;;;juan,paco,luis;false,1/7/2023,13
+Dungeon Worm;Earth;Insect;5;1800;1500;;;;;juan,paco,luis;true,5/9/2022,60
+Earthbound Spirit;Earth;Fiend;4;500;2000;;;;;juan,paco,luis;false,4/27/2022,67
+Elemental HERO Avian;Wind;Warrior;3;1000;1000;;;;;juan,paco,luis;true,5/11/2022,25
+Elemental HERO Burstinatrix;Fire;Warrior;3;1200;800;;;;;juan,paco,luis;true,3/4/2023,89
+Elemental HERO Clayman;Earth;Warrior;4;800;2000;;;;;juan,paco,luis;true,7/27/2022,62
+Elemental HERO Neos;Light;Warrior;7;2500;2000;;;;;juan,paco,luis;true,2/20/2023,72
+Elemental HERO Sparkman;Light;Warrior;4;1600;1400;;;;;juan,paco,luis;false,4/19/2022,19
+Empress Mantis;Wind;Insect;6;2200;1400;;;;;juan,paco,luis;true,11/19/2022,83
+Enchanting Mermaid;Water;Fish;3;1200;900;;;;;juan,paco,luis;true,2/22/2023,31
+Evilswarm Heliotrope;Dark;Rock;4;1950;650;;;;;juan,paco,luis;false,3/29/2022,66
+Fairy Dragon;Wind;Dragon;4;1100;1200;;;;;juan,paco,luis;false,10/8/2022,14
+Fairy's Gift;Light;Spellcaster;4;1400;1000;;;;;juan,paco,luis;false,11/22/2022,87
+Faith Bird;Wind;Winged;4;1500;1100;;;;;juan,paco,luis;false,6/7/2022,37
+Feral Imp;Dark;Fiend;4;1300;1400;;;;;juan,paco,luis;false,8/21/2022,92
+Fiend Reflection #2;Light;Winged;4;1100;1400;;;;;juan,paco,luis;false,7/28/2022,46
+Fiend Scorpion;Earth;Insect;2;900;200;;;;;juan,paco,luis;false,12/27/2022,69
+Fire Kraken;Fire;Aqua;4;1600;1500;;;;;juan,paco,luis;false,6/15/2022,54
+Fire Reaper;Dark;Zombie;2;700;500;;;;;juan,paco,luis;true,10/11/2022,52
+Firegrass;Earth;Plant;2;700;600;;;;;juan,paco,luis;false,5/3/2022,28
+Firewing Pegasus;Fire;Beast;6;2250;1800;;;;;juan,paco,luis;true,4/25/2022,49
+Fireyarou;Fire;Pyro;4;1300;1000;;;;;juan,paco,luis;false,4/20/2022,11
+Flame Cerberus;Fire;Pyro;6;2100;1800;;;;;juan,paco,luis;false,10/31/2022,32
+Flame Champion;Fire;Pyro;5;1900;1300;;;;;juan,paco,luis;false,2/3/2023,20
+Flame Dancer;Fire;Pyro;2;550;450;;;;;juan,paco,luis;true,4/20/2022,72
+Flame Manipulator;Fire;Spellcaster;3;900;1000;;;;;juan,paco,luis;false,10/15/2022,59
+Flame Viper;Earth;Pyro;2;400;450;;;;;juan,paco,luis;true,7/16/2022,42
+Flying Fish;Wind;Fish;4;800;500;;;;;juan,paco,luis;true,7/20/2022,70
+Flying Kamakiri #2;Wind;Insect;4;1500;800;;;;;juan,paco,luis;true,10/21/2022,34
+Flying Penguin;Water;Aqua;4;1200;1000;;;;;juan,paco,luis;true,4/28/2022,60
+Frenzied Panda;Earth;Beast;4;1200;1000;;;;;juan,paco,luis;true,1/23/2023,27
+Frog the Jam;Water;Aqua;2;700;500;;;;;juan,paco,luis;false,3/29/2022,89
+Frostosaurus;Water;Dinosaur;6;2600;1700;;;;;juan,paco,luis;true,9/20/2022,61
+Gadget Soldier;Fire;Machine;6;1800;2000;;;;;juan,paco,luis;true,2/6/2023,77
+Gagagigo;Water;Reptile;4;1850;1000;;;;;juan,paco,luis;false,8/10/2022,11
+Gaia the Fierce Knight;Earth;Warrior;7;2300;2100;;;;;juan,paco,luis;false,2/18/2023,4
+Gamma the Magnet Warrior;Earth;Rock;4;1500;1800;;;;;juan,paco,luis;false,8/21/2022,25
+Garnecia Elefantis;Earth;Beast;7;2400;2000;;;;;juan,paco,luis;true,9/7/2022,36
+Garoozis;FIRE;Beast;5;1800;1500;;;;;juan,paco,luis;false,11/19/2022,91
+Gatekeeper;Dark;Machine;5;1500;1800;;;;;juan,paco,luis;true,10/18/2022,5
+Gazelle the King of Mythical Beasts;Earth;Beast;4;1500;1200;;;;;juan,paco,luis;true,9/20/2022,31
+Gem-Knight Crystal;Earth;Rock;7;2450;1950;;;;;juan,paco,luis;true,5/31/2022,95
+Gem-Knight Garnet;Earth;Pyro;4;1900;0;;;;;juan,paco,luis;true,2/21/2023,63
+Gem-Knight Lapis;Earth;Rock;3;1200;100;;;;;juan,paco,luis;false,8/17/2022,10
+Gem-Knight Sapphire;Earth;Aqua;4;0;2100;;;;;juan,paco,luis;true,10/26/2022,10
+Gem-Knight Tourmaline;Earth;Thunder;4;1600;1800;;;;;juan,paco,luis;true,4/30/2022,55
+Gemini Elf;Earth;Spellcaster;4;1900;900;;;;;juan,paco,luis;true,5/24/2022,89
+Gene-Warped Warwolf;Earth;Beast;4;2000;100;;;;;juan,paco,luis;false,5/1/2022,11
+Giant Flea;Earth;Insect;4;1500;1200;;;;;juan,paco,luis;true,9/8/2022,52
+Giant Mech-Soldier;Earth;Machine;6;1750;1900;;;;;juan,paco,luis;true,12/20/2022,30
+Giant Red Seasnake;Water;Aqua;4;1800;800;;;;;juan,paco,luis;false,3/24/2022,2
+Giant Soldier of Stone;Earth;Rock;3;1300;2000;;;;;juan,paco,luis;false,6/2/2022,81
+Giant Turtle Who Feeds on Flames;Water;Aqua;5;1400;1800;;;;;juan,paco,luis;true,7/11/2022,70
+Giga Gagagigo;Water;Reptile;5;2450;1500;;;;;juan,paco,luis;true,6/19/2022,52
+Giga-Tech Wolf;Fire;Machine;4;1200;1400;;;;;juan,paco,luis;false,7/27/2022,51
+Giganto;Dark;Machine;5;1700;1800;;;;;juan,paco,luis;false,11/22/2022,30
+Gigobyte;Water;Reptile;1;350;300;;;;;juan,paco,luis;true,2/12/2023,1
+Gil Garth;Dark;Fiend;4;1800;1200;;;;;juan,paco,luis;false,3/5/2023,59
+Girochin Kuwagata;Wind;Insect;4;1700;1000;;;;;juan,paco,luis;true,2/20/2023,43
+Gladiator Beast Andal;Earth;Beast;4;1900;1500;;;;;juan,paco,luis;false,6/1/2022,28
+Goblin Calligrapher;Dark;Fiend;1;400;400;;;;;juan,paco,luis;false,7/6/2022,73
+Gogiga Gagagigo;Water;Reptile;8;2950;2800;;;;;juan,paco,luis;true,7/4/2022,52
+Gokibore;Earth;Insect;4;1200;1400;;;;;juan,paco,luis;false,7/6/2022,69
+Gradius;Light;Machine;4;1200;800;;;;;juan,paco,luis;true,7/17/2022,82
+Grand Tiki Elder;Dark;Fiend;4;1500;800;;;;;juan,paco,luis;false,3/17/2022,24
+Great Angus;Fire;Beast;4;1800;600;;;;;juan,paco,luis;false,6/3/2022,42
+Great White;Water;Fish;4;1600;800;;;;;juan,paco,luis;false,10/19/2022,41
+Green Phantom King;Earth;Plant;3;500;1600;;;;;juan,paco,luis;false,2/10/2023,2
+Griffore;Earth;Beast;4;1200;1500;;;;;juan,paco,luis;false,7/16/2022,85
+Ground Attacker Bugroth;Earth;Machine;4;1500;1000;;;;;juan,paco,luis;true,9/13/2022,35
+Guardian of the Labyrinth;Earth;Warrior;4;1000;1200;;;;;juan,paco,luis;false,12/5/2022,22
+Guardian of the Throne Room;Light;Machine;4;1650;1600;;;;;juan,paco,luis;true,3/2/2023,34
+Gyakutenno Megami;Light;Fairy;6;1800;2000;;;;;juan,paco,luis;false,10/15/2022,80
+Haniwa;Earth;Rock;2;500;500;;;;;juan,paco,luis;false,3/6/2022,97
+Happy Lover;Light;Fairy;2;800;500;;;;;juan,paco,luis;false,1/25/2023,33
+Hard Armor;Earth;Warrior;3;300;1200;;;;;juan,paco,luis;true,12/6/2022,88
+Harpie Girl;Wind;Winged;2;500;500;;;;;juan,paco,luis;false,10/12/2022,27
+Harpie Lady;Wind;Winged;4;1300;1400;;;;;juan,paco,luis;false,3/31/2022,35
+Headless Knight;Earth;Fiend;4;1450;1700;;;;;juan,paco,luis;false,3/24/2022,16
+Hercules Beetle;Earth;Insect;5;1500;2000;;;;;juan,paco,luis;false,11/2/2022,68
+Hero of the East;Earth;Warrior;3;1100;1000;;;;;juan,paco,luis;true,1/1/2023,68
+Hibikime;Earth;Warrior;4;1450;1000;;;;;juan,paco,luis;true,3/19/2022,97
+Hieratic Seal of the Sun Dragon Overlord;Light;Dragon;8;0;0;;;;;juan,paco,luis;false,10/6/2022,64
+High Tide Gyojin;Water;Aqua;4;1650;1300;;;;;juan,paco,luis;true,11/23/2022,30
+Hinotama Soul;Fire;Pyro;2;600;500;;;;;juan,paco,luis;true,4/4/2022,58
+Hitotsu-Me Giant;Earth;Beast;4;1200;1000;;;;;juan,paco,luis;true,6/20/2022,63
+Humanoid Slime;Water;Aqua;4;800;2000;;;;;juan,paco,luis;true,12/10/2022,9
+Hunter Dragon;Dark;Dragon;3;1700;100;;;;;juan,paco,luis;false,4/23/2022,86
+Hunter Spider;Earth;Insect;5;1600;1400;;;;;juan,paco,luis;true,6/2/2022,43
+Hyosube;Water;Aqua;4;1500;900;;;;;juan,paco,luis;false,7/11/2022,100
+Hyozanryu;Light;Dragon;7;2100;2800;;;;;juan,paco,luis;true,11/30/2022,44
+Hysteric Fairy;Light;Fairy;4;1800;500;;;;;juan,paco,luis;false,1/22/2023,90
+Illusionist Faceless Mage;Dark;Spellcaster;5;1200;2200;;;;;juan,paco,luis;true,10/29/2022,79
+Inpachi;Earth;Machine;4;1600;1900;;;;;juan,paco,luis;false,5/16/2022,8
+Insect Knight;Earth;Insect;4;1900;1500;;;;;juan,paco,luis;true,7/15/2022,70
+Island Turtle;Water;Aqua;4;1100;2000;;;;;juan,paco,luis;false,3/4/2023,44
+Jack's Knight;Light;Warrior;5;1900;1000;;;;;juan,paco,luis;false,6/17/2022,19
+Jellyfish;Water;Aqua;4;1200;1500;;;;;juan,paco,luis;false,4/27/2022,34
+Jerry Beans Man;Earth;Plant;3;1750;0;;;;;juan,paco,luis;false,8/12/2022,96
+Judge Man;Earth;Warrior;6;2200;1500;;;;;juan,paco,luis;false,11/30/2022,93
+Kabazauls;Water;Dinosaur;4;1700;1500;;;;;juan,paco,luis;false,5/16/2022,92
+Kagemusha of the Blue Flame;Earth;Warrior;2;800;400;;;;;juan,paco,luis;true,5/13/2022,82
+Kageningen;Dark;Warrior;2;800;600;;;;;juan,paco,luis;false,7/21/2022,88
+Kairyu-Shin;Water;Sea;5;1800;1500;;;;;juan,paco,luis;true,7/11/2022,15
+Kanan the Swordmistress;Earth;Warrior;4;1400;1400;;;;;juan,paco,luis;false,11/26/2022,48
+Key Mace;Light;Fairy;1;400;300;;;;;juan,paco,luis;false,3/14/2022,96
+Killer Needle;Wind;Insect;4;1200;1000;;;;;juan,paco,luis;false,11/10/2022,11
+King Fog;Dark;Fiend;3;1000;900;;;;;juan,paco,luis;false,10/13/2022,30
+King of Yamimakai;Dark;Fiend;5;2000;1530;;;;;juan,paco,luis;false,2/11/2023,51
+Kojikocy;Earth;Warrior;4;1500;1200;;;;;juan,paco,luis;true,5/5/2022,50
+Koumori Dragon;Dark;Dragon;4;1500;1200;;;;;juan,paco,luis;true,12/30/2022,51
+Kozaky;Dark;Fiend;1;400;400;;;;;juan,paco,luis;true,2/21/2023,29
+Kumootoko;Earth;Insect;3;700;1400;;;;;juan,paco,luis;true,8/14/2022,95
+Kurama;Wind;Winged;3;800;800;;;;;juan,paco,luis;true,5/13/2022,30
+Kuwagata Alpha;Earth;Insect;4;1250;1000;;;;;juan,paco,luis;true,6/29/2022,10
+La Jinn the Mystical Genie of the Lamp;Dark;Fiend;4;1800;1000;;;;;juan,paco,luis;false,12/8/2022,7
+Labyrinth Wall;Earth;Rock;5;0;3000;;;;;juan,paco,luis;true,2/15/2023,10
+Lady of Faith;Light;Spellcaster;3;1100;800;;;;;juan,paco,luis;true,6/9/2022,84
+Larvas;Earth;Beast;3;800;1000;;;;;juan,paco,luis;true,6/7/2022,9
+Launcher Spider;Fire;Machine;7;2200;2500;;;;;juan,paco,luis;true,5/18/2022,86
+Left Arm of the Forbidden One;Dark;Spellcaster;1;200;300;;;;;juan,paco,luis;true,8/3/2022,83
+Left Leg of the Forbidden One;Dark;Spellcaster;1;200;300;;;;;juan,paco,luis;true,1/16/2023,21
+Leogun;Earth;Beast;5;1750;1550;;;;;juan,paco,luis;true,8/12/2022,18
+Leotron;Earth;Cyberse;4;2000;0;;;;;juan,paco,luis;true,12/16/2022,12
+Lesser Dragon;Wind;Dragon;4;1200;1000;;;;;juan,paco,luis;true,5/5/2022,38
+Lightning Conger;Water;Thunder;3;350;750;;;;;juan,paco,luis;true,5/20/2022,70
+Liquid Beast;Water;Aqua;3;950;800;;;;;juan,paco,luis;true,7/12/2022,74
+Little D;Earth;Dinosaur;3;1100;700;;;;;juan,paco,luis;true,8/3/2022,96
+Lizard Soldier;Wind;Dragon;3;1100;800;;;;;juan,paco,luis;true,6/17/2022,36
+Lord of the Lamp;Dark;Fiend;4;1400;1200;;;;;juan,paco,luis;false,1/17/2023,13
+Luster Dragon;Wind;Dragon;4;1900;1600;;;;;juan,paco,luis;false,6/30/2022,19
+Luster Dragon #2;Wind;Dragon;6;2400;1400;;;;;juan,paco,luis;false,6/28/2022,53
+M-Warrior #1;Earth;Warrior;3;1000;500;;;;;juan,paco,luis;false,6/16/2022,88
+M-Warrior #2;Earth;Warrior;3;500;1000;;;;;juan,paco,luis;false,6/16/2022,70
+Mad Dog of Darkness;Dark;Beast;4;1900;1400;;;;;juan,paco,luis;true,8/20/2022,29
+Mad Lobster;Water;Aqua;3;1700;1000;;;;;juan,paco,luis;true,10/27/2022,23
+Magical Ghost;Dark;Zombie;4;1300;1400;;;;;juan,paco,luis;false,9/28/2022,99
+Maiden of the Moonlight;Light;Spellcaster;4;1500;1300;;;;;juan,paco,luis;true,7/22/2022,44
+Mammoth Graveyard;Earth;Dinosaur;3;1200;800;;;;;juan,paco,luis;true,8/27/2022,41
+Man Eater;Earth;Plant;2;800;600;;;;;juan,paco,luis;false,8/9/2022,98
+Man-Eating Treasure Chest;Dark;Fiend;4;1600;1000;;;;;juan,paco,luis;true,8/6/2022,6
+Masaki the Legendary Swordsman;Earth;Warrior;4;1100;1100;;;;;juan,paco,luis;true,3/4/2023,67
+"Master &amp; Expert";Earth;Beast;4;1200;1000;; Expert,Earth,Beast,4,1200,1000;;;juan,paco,luis;true,1/24/2023,31
+Master Kyonshee;Earth;Zombie;4;1750;1000;;;;;juan,paco,luis;true,8/4/2022,67
+Mechanical Snail;Dark;Machine;3;800;1000;;;;;juan,paco,luis;true,5/13/2022,96
+Mechanicalchaser;Dark;Machine;4;1850;800;;;;;juan,paco,luis;false,8/20/2022,54
+Meda Bat;Dark;Fiend;2;800;400;;;;;juan,paco,luis;true,5/19/2022,24
+Mega Thunderball;Wind;Thunder;2;750;600;;;;;juan,paco,luis;false,4/6/2022,59
+Megalosmasher X;Water;Dinosaur;4;2000;0;;;;;juan,paco,luis;false,7/2/2022,55
+Megasonic Eye;Dark;Machine;5;1500;1800;;;;;juan,paco,luis;false,10/21/2022,9
+Megazowler;Earth;Dinosaur;6;1800;2000;;;;;juan,paco,luis;true,4/10/2022,60
+Mekk-Knight Avram;Light;Psychic;4;2000;0;;;;;juan,paco,luis;true,8/29/2022,31
+Melchid the Four-Face Beast;Dark;Fiend;4;1500;1200;;;;;juan,paco,luis;false,4/23/2022,44
+Meotoko;Earth;Beast;2;700;600;;;;;juan,paco,luis;true,4/9/2022,60
+Metal Armored Bug;Earth;Insect;8;2800;1500;;;;;juan,paco,luis;true,11/24/2022,55
+Metal Fish;Water;Machine;5;1600;1900;;;;;juan,paco,luis;false,2/3/2023,49
+Metal Guardian;Dark;Fiend;5;1150;2150;;;;;juan,paco,luis;true,8/15/2022,55
+Metaphys Armed Dragon;Light;Wyrm;7;2800;1000;;;;;juan,paco,luis;true,9/20/2022,10
+Meteor Dragon;Earth;Dragon;6;1800;2000;;;;;juan,paco,luis;false,9/23/2022,35
+Mighty Guard;Earth;Machine;4;500;1200;;;;;juan,paco,luis;false,9/5/2022,68
+Mikazukinoyaiba;Dark;Dragon;7;2200;2350;;;;;juan,paco,luis;false,7/12/2022,66
+Millennium Golem;Earth;Rock;6;2000;2200;;;;;juan,paco,luis;false,9/25/2022,95
+Millennium Shield;Earth;Warrior;5;0;3000;;;;;juan,paco,luis;true,1/30/2023,52
+Misairuzame;Water;Fish;5;1400;1600;;;;;juan,paco,luis;true,4/7/2022,40
+Mokey Mokey;Light;Fairy;1;300;100;;;;;juan,paco,luis;true,2/21/2023,83
+Molten Behemoth;Fire;Pyro;5;1000;2200;;;;;juan,paco,luis;true,12/2/2022,38
+Monster Egg;Earth;Warrior;3;600;900;;;;;juan,paco,luis;true,7/29/2022,67
+Monster Tamer;Earth;Warrior;5;1800;1600;;;;;juan,paco,luis;true,8/28/2022,28
+Moon Envoy;Light;Warrior;4;1100;1000;;;;;juan,paco,luis;false,6/12/2022,94
+Morinphen;Dark;Fiend;5;1550;1300;;;;;juan,paco,luis;true,5/6/2022,91
+Mr. Volcano;Fire;Pyro;5;2100;1300;;;;;juan,paco,luis;false,6/13/2022,64
+Mushroom Man;Earth;Plant;2;800;600;;;;;juan,paco,luis;false,6/12/2022,33
+Mystery Shell Dragon;Dark;Wyrm;4;2000;0;;;;;juan,paco,luis;false,2/2/2023,62
+Mystic Clown;Dark;Fiend;4;1500;1000;;;;;juan,paco,luis;true,3/5/2023,61
+Mystic Horseman;Earth;Beast;4;1300;1550;;;;;juan,paco,luis;true,2/24/2023,96
+Mystical Elf;Light;Spellcaster;4;800;2000;;;;;juan,paco,luis;false,3/18/2022,15
+Mystical Sheep #2;Earth;Beast;3;800;1000;;;;;juan,paco,luis;true,3/11/2022,85
+Mystical Shine Ball;Light;Fairy;2;500;500;;;;;juan,paco,luis;false,3/3/2023,58
+Necrolancer the Timelord;Dark;Spellcaster;3;800;900;;;;;juan,paco,luis;true,6/5/2022,2
+Nekogal #1;Earth;Beast;3;1100;900;;;;;juan,paco,luis;false,9/12/2022,76
+Nekogal #2;Earth;Beast;6;1900;2000;;;;;juan,paco,luis;true,3/2/2023,32
+Nemuriko;Dark;Spellcaster;3;800;700;;;;;juan,paco,luis;true,10/19/2022,51
+Neo Aqua Madoor;Water;Spellcaster;6;1200;3000;;;;;juan,paco,luis;false,11/21/2022,57
+Neo Bug;Earth;Insect;4;1800;1700;;;;;juan,paco,luis;true,5/4/2022,33
+Neo the Magic Swordsman;Light;Spellcaster;4;1700;1000;;;;;juan,paco,luis;true,1/18/2023,21
+Nin-Ken Dog;Wind;Beast;4;1800;1000;;;;;juan,paco,luis;false,3/16/2022,58
+Niwatori;Earth;Winged;3;900;800;;;;;juan,paco,luis;true,8/11/2022,14
+Noble Knight Artorigus;Light;Warrior;4;1800;1800;;;;;juan,paco,luis;false,3/7/2022,77
+Nuvia the Wicked;Dark;Fiend;4;2000;800;;;;;juan,paco,luis;false,5/1/2022,68
+Obelisk the Tormentor (Non-Playable);Divine;Divine;10;4000;4000;;;;;juan,paco,luis;false,5/9/2022,38
+Octoberser;Water;Aqua;5;1600;1400;;;;;juan,paco,luis;true,2/13/2023,14
+Ocubeam;Light;Fairy;5;1550;1650;;;;;juan,paco,luis;false,10/31/2022,84
+Ogre of the Black Shadow;Earth;Beast;4;1200;1400;;;;;juan,paco,luis;true,3/30/2022,72
+Ojama Black;Light;Beast;2;0;1000;;;;;juan,paco,luis;true,11/9/2022,32
+Ojama Green;Light;Beast;2;0;1000;;;;;juan,paco,luis;true,7/31/2022,43
+Ojama Yellow;Light;Beast;2;0;1000;;;;;juan,paco,luis;false,1/19/2023,7
+One-Eyed Shield Dragon;Wind;Dragon;3;700;1300;;;;;juan,paco,luis;true,7/8/2022,27
+Oni Tank T-34;Earth;Machine;4;1400;1700;;;;;juan,paco,luis;true,2/28/2023,35
+Oppressed People;Water;Aqua;1;400;2000;;;;;juan,paco,luis;false,1/17/2023,100
+Opticlops;Dark;Fiend;4;1800;1700;;;;;juan,paco,luis;false,4/23/2022,12
+Oscillo Hero;Earth;Warrior;3;1250;700;;;;;juan,paco,luis;true,12/16/2022,60
+Overdrive;Earth;Machine;4;1600;1500;;;;;juan,paco,luis;false,3/22/2022,42
+Pale Beast;Earth;Beast;4;1500;1200;;;;;juan,paco,luis;false,3/17/2022,42
+Parrot Dragon;Wind;Dragon;5;2000;1300;;;;;juan,paco,luis;true,8/15/2022,76
+Peacock;Wind;Winged;5;1700;1500;;;;;juan,paco,luis;false,4/30/2022,57
+Pendulum Machine;Dark;Machine;6;1750;2000;;;;;juan,paco,luis;false,3/9/2022,20
+People Running About;Fire;Pyro;2;600;600;;;;;juan,paco,luis;false,1/30/2023,1
+Petit Angel;Light;Fairy;3;600;900;;;;;juan,paco,luis;true,12/15/2022,33
+Petit Dragon;Wind;Dragon;2;600;700;;;;;juan,paco,luis;false,9/12/2022,21
+Petit Moth;Earth;Insect;1;300;200;;;;;juan,paco,luis;true,8/13/2022,36
+Phantasm Spiral Dragon;Water;Wyrm;8;2900;2900;;;;;juan,paco,luis;false,9/21/2022,82
+Phantom Gryphon;Wind;Winged;4;2000;0;;;;;juan,paco,luis;true,6/15/2022,85
+Pharaoh's Servant;Dark;Zombie;2;900;0;;;;;juan,paco,luis;false,9/4/2022,18
+Pharaonic Protector;Earth;Zombie;2;900;0;;;;;juan,paco,luis;false,10/7/2022,77
+Prevent Rat;Earth;Beast;4;500;2000;;;;;juan,paco,luis;false,11/2/2022,63
+Prisman;Light;Rock;3;800;1000;;;;;juan,paco,luis;false,4/14/2022,31
+Protector of the Throne;Earth;Warrior;4;800;1500;;;;;juan,paco,luis;true,1/8/2023,91
+Protron;Earth;Cyberse;1;100;100;;;;;juan,paco,luis;true,10/20/2022,43
+PSY-Frame Driver;Light;Psychic;6;2500;0;;;;;juan,paco,luis;true,2/16/2023,96
+Psychic Kappa;Water;Aqua;2;400;1000;;;;;juan,paco,luis;true,1/3/2023,20
+Queen Bird;Wind;Winged;5;1200;2000;;;;;juan,paco,luis;true,11/12/2022,23
+Queen of Autumn Leaves;Earth;Plant;5;1800;1500;;;;;juan,paco,luis;true,8/23/2022,36
+Queen's Knight;Light;Warrior;4;1500;1600;;;;;juan,paco,luis;false,3/19/2022,97
+Rabidragon;Light;Dragon;8;2950;2900;;;;;juan,paco,luis;true,1/15/2023,99
+"Ray &amp; Temperature";Light;Fairy;3;1000;1000;; Temperature,Light,Fairy,3,1000,1000;;;juan,paco,luis;true,2/17/2023,60
+Red Archery Girl;Water;Aqua;4;1400;1500;;;;;juan,paco,luis;true,10/10/2022,3
+Red-Eyes B. Dragon;Dark;Dragon;7;2400;2000;;;;;juan,paco,luis;false,2/27/2023,4
+Renge, Gatekeeper of Dark World;Dark;Fiend;4;100;2100;;;;;juan,paco,luis;true,4/29/2022,92
+Right Arm of the Forbidden One;Dark;Spellcaster;1;200;300;;;;;juan,paco,luis;true,2/4/2023,81
+Right Leg of the Forbidden One;Dark;Spellcaster;1;200;300;;;;;juan,paco,luis;true,11/19/2022,19
+Robolady;Earth;Machine;3;450;900;;;;;juan,paco,luis;false,3/4/2023,92
+Robotic Knight;Fire;Machine;4;1600;1800;;;;;juan,paco,luis;false,4/1/2022,45
+Roboyarou;Earth;Machine;3;900;450;;;;;juan,paco,luis;false,9/10/2022,95
+Rock Ogre Grotto #1;Earth;Rock;3;800;1200;;;;;juan,paco,luis;true,2/15/2023,93
+Rogue Doll;Light;Spellcaster;4;1600;1000;;;;;juan,paco,luis;false,8/9/2022,5
+Root Water;Water;Fish;3;900;800;;;;;juan,paco,luis;false,5/7/2022,25
+Rude Kaiser;Earth;Beast;5;1800;1600;;;;;juan,paco,luis;false,8/31/2022,29
+Ryu-Kishin;Dark;Fiend;3;1000;500;;;;;juan,paco,luis;true,5/14/2022,44
+Ryu-Kishin Powered;Light;Fiend;4;1600;1200;;;;;juan,paco,luis;true,3/1/2023,16
+Ryu-Ran;Fire;Dragon;7;2200;2600;;;;;juan,paco,luis;false,11/24/2022,91
+Sabersaurus;Earth;Dinosaur;4;1900;500;;;;;juan,paco,luis;false,3/3/2023,49
+Saggi the Dark Clown;Dark;Spellcaster;3;600;1500;;;;;juan,paco,luis;true,3/1/2023,10
+Sand Stone;Earth;Rock;5;1300;1600;;;;;juan,paco,luis;false,3/30/2022,40
+Science Soldier;Dark;Warrior;3;800;800;;;;;juan,paco,luis;false,8/30/2022,57
+Sea Serpent Warrior of Darkness;Water;Sea;4;1800;1500;;;;;juan,paco,luis;true,1/16/2023,20
+Sealmaster Meisei;Dark;Spellcaster;3;1100;900;;;;;juan,paco,luis;true,9/9/2022,89
+Sectarian of Secrets;Dark;Spellcaster;2;700;500;;;;;juan,paco,luis;true,3/10/2022,3
+Seiyaryu;Light;Dragon;7;2500;2300;;;;;juan,paco,luis;true,12/23/2022,39
+Sengenjin;Earth;Beast;8;2750;2500;;;;;juan,paco,luis;false,3/8/2022,10
+Sentinel of the Seas;Water;Aqua;4;1300;1000;;;;;juan,paco,luis;false,8/6/2022,63
+Serpent Night Dragon;Dark;Dragon;7;2350;2400;;;;;juan,paco,luis;true,5/19/2022,56
+Shapesnatch;Dark;Machine;5;1200;1700;;;;;juan,paco,luis;false,4/7/2022,25
+Shining Abyss;Light;Fairy;4;1600;1800;;;;;juan,paco,luis;false,7/9/2022,83
+Shining Friendship;Light;Fairy;4;1300;1100;;;;;juan,paco,luis;true,9/17/2022,44
+"Shiny Black C"" Squadder""";Earth;Insect;4;2000;0;;;;;juan,paco,luis;false,8/5/2022,71
+Shovel Crusher;Earth;Machine;3;900;1200;;;;;juan,paco,luis;true,5/7/2022,62
+Silver Fang;Earth;Beast;3;1200;800;;;;;juan,paco,luis;true,8/21/2022,65
+Skull Dog Marron;Earth;Beast;4;1350;2000;;;;;juan,paco,luis;false,2/20/2023,22
+Skull Mariner;Water;Warrior;4;1600;900;;;;;juan,paco,luis;true,8/12/2022,41
+Skull Red Bird;Wind;Winged;4;1550;1200;;;;;juan,paco,luis;false,12/11/2022,55
+Skull Servant;Dark;Zombie;1;300;200;;;;;juan,paco,luis;true,2/13/2023,68
+Skull Stalker;Dark;Warrior;3;900;800;;;;;juan,paco,luis;true,7/26/2022,74
+Sky Dragon;Wind;Dragon;6;1900;1800;;;;;juan,paco,luis;false,2/7/2023,37
+Sky Scout (F.K.A. Harpie's Brother);Wind;Winged;4;1800;600;;;;;juan,paco,luis;true,12/12/2022,90
+Sleeping Lion;Earth;Beast;4;700;1700;;;;;juan,paco,luis;true,1/15/2023,84
+Slifer the Sky Dragon (Non-Playable);Divine;Divine;10;X000;X000;;;;;juan,paco,luis;false,8/16/2022,6
+Slot Machine;Dark;Machine;7;2000;2300;;;;;juan,paco,luis;true,2/12/2023,74
+Soitsu;Wind;Fairy;3;0;0;;;;;juan,paco,luis;true,11/2/2022,60
+Sonic Duck;Wind;Winged;3;1700;700;;;;;juan,paco,luis;false,2/23/2023,73
+Sonic Maid;Earth;Warrior;3;1200;900;;;;;juan,paco,luis;false,6/20/2022,91
+Sorcerer of the Doomed;Dark;Spellcaster;4;1450;1200;;;;;juan,paco,luis;true,5/3/2022,24
+Soul Tiger;Earth;Beast;4;0;2100;;;;;juan,paco,luis;false,1/23/2023,14
+Souleater;Earth;Fish;4;1200;0;;;;;juan,paco,luis;false,7/26/2022,35
+Souls of the Forgotten;Dark;Fiend;2;900;200;;;;;juan,paco,luis;false,9/13/2022,19
+Space Mambo;Water;Fish;4;1700;1000;;;;;juan,paco,luis;false,5/16/2022,60
+Spherous Lady;Earth;Rock;3;400;1400;;;;;juan,paco,luis;true,1/12/2023,50
+Spike Seadra;Water;Sea;5;1600;1300;;;;;juan,paco,luis;false,2/2/2023,5
+Spikebot;Dark;Machine;5;1800;1700;;;;;juan,paco,luis;false,9/11/2022,16
+Spiral Serpent;Water;Sea;8;2900;2900;;;;;juan,paco,luis;false,7/23/2022,93
+Spirit of the Books;Wind;Winged;4;1400;1200;;;;;juan,paco,luis;false,11/25/2022,12
+Spirit of the Harp;Light;Fairy;4;800;2000;;;;;juan,paco,luis;false,2/19/2023,90
+Steel Ogre Grotto #1;Earth;Machine;5;1400;1800;;;;;juan,paco,luis;true,12/6/2022,35
+Steel Ogre Grotto #2;Earth;Machine;6;1900;2200;;;;;juan,paco,luis;false,7/12/2022,60
+Stone Armadiller;Earth;Rock;3;800;1200;;;;;juan,paco,luis;true,3/20/2022,53
+Stone Dragon;Earth;Rock;7;2000;2300;;;;;juan,paco,luis;false,7/27/2022,90
+Stone Ogre Grotto;Earth;Rock;5;1600;1500;;;;;juan,paco,luis;false,4/6/2022,68
+Stuffed Animal;Earth;Warrior;3;1200;900;;;;;juan,paco,luis;false,8/27/2022,45
+Succubus Knight;Dark;Warrior;5;1650;1300;;;;;juan,paco,luis;true,6/2/2022,63
+Summoned Skull;Dark;Fiend;6;2500;1200;;;;;juan,paco,luis;false,7/27/2022,8
+Suppression Collider;Dark;Cyberse;8;2800;2600;;;;;juan,paco,luis;false,5/31/2022,42
+Sword Arm of Dragon;Earth;Dinosaur;6;1750;2030;;;;;juan,paco,luis;false,11/23/2022,4
+Sword Slasher;Dark;Machine;5;1450;1500;;;;;juan,paco,luis;false,3/24/2022,55
+Swordsman of Landstar;Earth;Warrior;3;500;1200;;;;;juan,paco,luis;true,3/18/2022,66
+Swordstalker;Dark;Warrior;6;2000;1600;;;;;juan,paco,luis;false,5/21/2022,44
+Takriminos;Water;Sea;4;1500;1200;;;;;juan,paco,luis;true,11/16/2022,76
+Takuhee;Wind;Winged;4;1450;1000;;;;;juan,paco,luis;true,4/23/2022,69
+Temple of Skulls;Dark;Zombie;4;900;1300;;;;;juan,paco,luis;true,5/9/2022,98
+Terra the Terrible;Dark;Fiend;4;1200;1300;;;;;juan,paco,luis;false,12/21/2022,4
+Terrorking Salmon;Water;Fish;5;2400;1000;;;;;juan,paco,luis;false,1/18/2023,76
+The 13th Grave;Dark;Zombie;3;1200;900;;;;;juan,paco,luis;false,10/30/2022,73
+The All-Seeing White Tiger;Wind;Beast;3;1300;500;;;;;juan,paco,luis;true,12/24/2022,98
+The Dragon Dwelling in the Cave;Wind;Dragon;4;1300;2000;;;;;juan,paco,luis;false,11/24/2022,51
+The Earl of Demise;Dark;Fiend;5;2000;700;;;;;juan,paco,luis;true,3/12/2022,16
+The Forgiving Maiden;Light;Fairy;4;850;2000;;;;;juan,paco,luis;false,2/24/2023,76
+The Furious Sea King;Water;Aqua;3;800;700;;;;;juan,paco,luis;false,3/13/2022,56
+The Gross Ghost of Fled Dreams;Dark;Fiend;4;1300;1800;;;;;juan,paco,luis;true,4/19/2022,30
+The Illusory Gentleman;Dark;Spellcaster;4;1500;1600;;;;;juan,paco,luis;true,10/26/2022,78
+The Judgement Hand;Earth;Warrior;3;1400;700;;;;;juan,paco,luis;true,3/11/2022,2
+The Portrait's Secret;Earth;Fiend;4;1200;1500;;;;;juan,paco,luis;true,9/14/2022,52
+The Snake Hair;Dark;Zombie;4;1500;1200;;;;;juan,paco,luis;false,9/2/2022,85
+The Statue of Easter Island;Earth;Rock;4;1100;1400;;;;;juan,paco,luis;false,11/22/2022,94
+The Winged Dragon of Ra (Non-Playable);Divine;Divine;10;Spirits;;;;;;juan,paco,luis;false,3/26/2022,66
+Thousand-Eyes Idol;Dark;Spellcaster;1;0;0;;;;;juan,paco,luis;true,9/1/2022,55
+Three-Headed Geedo;Dark;Fiend;4;1200;1400;;;;;juan,paco,luis;false,3/3/2023,74
+Three-Legged Zombies;Dark;Zombie;3;1100;800;;;;;juan,paco,luis;true,1/16/2023,50
+Thunder Kid;Wind;Thunder;2;700;600;;;;;juan,paco,luis;true,2/17/2023,55
+Tiger Axe;Earth;Beast;4;1300;1100;;;;;juan,paco,luis;false,6/25/2022,63
+Tomozaurus;Earth;Dinosaur;2;500;400;;;;;juan,paco,luis;false,3/21/2022,23
+Tongyo;Water;Fish;4;1350;800;;;;;juan,paco,luis;false,7/29/2022,71
+Toon Alligator;Water;Reptile;4;800;1600;;;;;juan,paco,luis;true,5/10/2022,67
+Trakodon;Earth;Dinosaur;3;1300;800;;;;;juan,paco,luis;false,3/13/2022,46
+Trance the Magic Swordsman;Earth;Spellcaster;6;2600;200;;;;;juan,paco,luis;true,2/7/2023,18
+Trent;Earth;Plant;5;1500;1800;;;;;juan,paco,luis;false,8/27/2022,13
+Tri-Horned Dragon;Dark;Dragon;8;2850;2350;;;;;juan,paco,luis;true,7/7/2022,2
+Trial of Nightmare;Dark;Fiend;4;1300;900;;;;;juan,paco,luis;true,10/6/2022,14
+Tripwire Beast;Earth;Thunder;4;1200;1300;;;;;juan,paco,luis;true,12/24/2022,19
+Turtle Bird;Water;Aqua;6;1900;1700;;;;;juan,paco,luis;false,2/21/2023,70
+Turtle Tiger;Water;Aqua;4;1000;1500;;;;;juan,paco,luis;false,10/13/2022,97
+Turu-Purun;Water;Aqua;2;450;500;;;;;juan,paco,luis;false,11/24/2022,19
+Twin Long Rods #2;Water;Aqua;3;850;700;;;;;juan,paco,luis;true,9/1/2022,5
+Twin-Headed Fire Dragon;Fire;Pyro;6;2200;1700;;;;;juan,paco,luis;true,9/8/2022,13
+Two-Headed King Rex;Earth;Dinosaur;4;1600;1200;;;;;juan,paco,luis;true,1/29/2023,36
+Two-Mouth Darkruler;Earth;Dragon;3;900;700;;;;;juan,paco,luis;true,9/3/2022,41
+Tyhone;Wind;Winged;4;1200;1400;;;;;juan,paco,luis;false,11/15/2022,64
+Tyhone #2;Fire;Dragon;6;1700;1900;;;;;juan,paco,luis;false,5/27/2022,75
+Unicycular;Earth;Machine;1;100;100;;;;;juan,paco,luis;true,11/21/2022,21
+United Resistance;Wind;Thunder;3;1000;400;;;;;juan,paco,luis;false,1/17/2023,31
+Unknown Warrior of Fiend;Dark;Warrior;3;1000;500;;;;;juan,paco,luis;false,3/4/2023,58
+Uraby;Earth;Dinosaur;4;1500;800;;;;;juan,paco,luis;false,6/23/2022,11
+Ushi Oni;Dark;Fiend;6;2150;1950;;;;;juan,paco,luis;false,11/12/2022,60
+V-Tiger Jet;Light;Machine;4;1600;1800;;;;;juan,paco,luis;false,4/1/2022,24
+Venom Cobra;Earth;Reptile;4;100;2000;;;;;juan,paco,luis;true,11/18/2022,30
+Violent Rain;Water;Aqua;4;1550;800;;;;;juan,paco,luis;false,4/5/2022,32
+Volcanic Rat;Fire;Pyro;1;500;500;;;;;juan,paco,luis;true,11/19/2022,54
+Vorse Raider;Dark;Beast;4;1900;1200;;;;;juan,paco,luis;true,4/9/2022,16
+Warrior Dai Grepher;Earth;Warrior;4;1700;1600;;;;;juan,paco,luis;false,1/12/2023,78
+Warrior of Zera;Earth;Warrior;4;1600;1600;;;;;juan,paco,luis;true,7/30/2022,19
+Water Magician;Water;Aqua;4;1400;1000;;;;;juan,paco,luis;false,3/26/2022,29
+Water Omotics;Water;Aqua;4;1400;1200;;;;;juan,paco,luis;false,12/10/2022,91
+Wattaildragon;Light;Dragon;6;2500;1000;;;;;juan,paco,luis;false,5/27/2022,64
+Wattkid (F.K.A. Oscillo Hero #2);Light;Thunder;3;1000;500;;;;;juan,paco,luis;false,4/22/2022,68
+Wetha;Water;Aqua;3;1000;900;;;;;juan,paco,luis;false,6/27/2022,70
+Whiptail Crow;Dark;Fiend;4;1650;1600;;;;;juan,paco,luis;false,1/14/2023,57
+White Duston;Light;Fiend;1;0;1000;;;;;juan,paco,luis;true,1/8/2023,63
+Winged Cleaver;Earth;Insect;2;700;700;;;;;juan,paco,luis;true,4/22/2022,63
+Winged Dragon, Guardian of the Fortress #1;Wind;Dragon;4;1400;1200;;;;;juan,paco,luis;true,3/19/2022,100
+Winged Dragon, Guardian of the Fortress #2;Wind;Winged;4;1200;1000;;;;;juan,paco,luis;false,7/20/2022,34
+Wings of Wicked Flame;Fire;Pyro;2;700;600;;;;;juan,paco,luis;false,6/14/2022,49
+Wingweaver;Light;Fairy;7;2750;2400;;;;;juan,paco,luis;true,6/10/2022,27
+Witty Phantom;Dark;Fiend;4;1400;1300;;;;;juan,paco,luis;true,11/30/2022,95
+Wolf;Earth;Beast;3;1200;800;;;;;juan,paco,luis;true,9/23/2022,61
+Wolf Axwielder;Earth;Beast;4;1650;1000;;;;;juan,paco,luis;false,4/28/2022,83
+Woodborg Inpachi;Fire;Machine;5;500;2500;;;;;juan,paco,luis;false,3/26/2022,53
+Worm Drake;Earth;Reptile;4;1400;1500;;;;;juan,paco,luis;true,11/8/2022,83
+WOW Warrior;Water;Fish;4;1250;900;;;;;juan,paco,luis;false,7/20/2022,9
+Wretched Ghost of the Attic;Dark;Fiend;2;550;400;;;;;juan,paco,luis;true,5/23/2022,72
+X-Head Cannon;Light;Machine;4;1800;1500;;;;;juan,paco,luis;false,11/18/2022,9
+X-Saber Anu Piranha;Earth;Warrior;4;1800;1100;;;;;juan,paco,luis;true,11/13/2022,46
+Yamadron;Fire;Dragon;5;1600;1800;;;;;juan,paco,luis;false,9/9/2022,86
+Yaranzo;Dark;Zombie;4;1300;1500;;;;;juan,paco,luis;true,5/25/2022,91
+Zoa;Dark;Fiend;7;2600;1900;;;;;juan,paco,luis;false,6/14/2022,48
+Zombino;Earth;Zombie;4;2000;0;;;;;juan,paco,luis;true,2/10/2023,44
+Zure, Knight of Dark World;Dark;Fiend;4;1800;1500;;;;;juan,paco,luis;true,6/2/2022,20
