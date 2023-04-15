@@ -23,12 +23,12 @@ public class CartasYugiho {
 	public CartasYugiho(String Name,String Attributes,String SubTypes,Integer Level,Integer Attack,Integer Defense,Boolean EsHumano,LocalDate FechaCarta,valores valores,NombreDefensaAtaque NombreDefensaAtaque) {
 		this.Name=Name;
 		this.Attributes=Attributes;
-		Checkers.check("el atributo y el subtipo no pueden ser iguales, puesto que seria redundante",!Attributes.equals(SubTypes));		
+		//Checkers.check("el atributo y el subtipo no pueden ser iguales, puesto que seria redundante",!Attributes.equals(SubTypes));		
 		this.SubTypes=SubTypes;
 		this.Level=Level;
-		Checkers.check("El ataque no puede ser menor que cero , es decir tiene que ser positivo, ni mayor de 10000",Attack>0 && Attack<10000);
+		//Checkers.check("El ataque no puede ser menor que cero , es decir tiene que ser positivo, ni mayor de 10000",Attack>0 && Attack<10000);
 		this.Attack=Attack;
-		Checkers.check("La defesa no puede ser menor que cero , es decir tiene que ser positiva, ni mayor de 10000",Defense>0 && Defense<10000);
+		//Checkers.check("La defesa no puede ser menor que cero , es decir tiene que ser positiva, ni mayor de 10000",Defense>0 && Defense<10000);
 		this.Defense= Defense;
 		this.EsHumano=EsHumano;
 		this.FechaCarta=FechaCarta;
@@ -40,15 +40,16 @@ public class CartasYugiho {
 		this.Attributes="";
 		this.SubTypes="";
 		this.Level=Level;
-		Checkers.check("El ataque no puede ser menor que cero , es decir tiene que ser positivo, ni mayor de 10000",Attack>0 && Attack<10000);
+		//Checkers.check("El ataque no puede ser menor que cero , es decir tiene que ser positivo, ni mayor de 10000",Attack>0 && Attack<10000);
 		this.Attack=Attack;
-		Checkers.check("La defesa no puede ser menor que cero , es decir tiene que ser positiva, ni mayor de 10000",Defense>0 && Defense<10000);
+		//Checkers.check("La defesa no puede ser menor que cero , es decir tiene que ser positiva, ni mayor de 10000",Defense>0 && Defense<10000);
 		this.Defense= Defense;
 		this.EsHumano=null;
 		this.FechaCarta=null;
 		this.valores=null;
 		
 	}
+	
 	//Propiedad derivada
 	public Integer getProductoAtaqueyDefensa() {
 		return Attack+Defense;	

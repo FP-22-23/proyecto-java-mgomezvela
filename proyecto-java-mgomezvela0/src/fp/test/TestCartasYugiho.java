@@ -2,6 +2,7 @@ package fp.test;
 
 import java.time.LocalDate;
 
+import fp.cartas.*;
 import fp.common.NombreDefensaAtaque;
 import fp.utiles.valores;
 import fp.yugiho.CartasYugiho;
@@ -22,18 +23,9 @@ public class TestCartasYugiho {
 		CartasYugiho CY2=new CartasYugiho("Name",1,2,3);
 		System.out.println(CY2.toString());
 		CartasYugiho CY3=new CartasYugiho("Acrobat Monkey",3,1000,1800);
-		CY3.equals(CY2);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		System.out.println(CY3.equals(CY2));
+
+		//System.out.println(getCartasConMejorAtaque());
 	}
 
 }
