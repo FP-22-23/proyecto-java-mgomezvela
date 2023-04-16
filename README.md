@@ -63,3 +63,45 @@ El dataset original YU-GI.OH-Normal_Monsters Dataset se puede obtener de la URL 
 #### Tipos auxiliares-carta: NombreDefensaAtaque
 Es un record que representa el nombre defensa y ataque de la carta en cuestión.
 
+Factoría - FactoriaPartidas
+Clase de factoría para construir objetos de tipo Partidas.
+
+leerCartas(String fichero):Crea una lista de tipo CartasYugiho a partir de la información recogida en el archivo csv, y se añaden las lineas de este eliminando la primera.
+parsearCartasYugiho(String linea): se recorren las lineas del fichero dandole a cada propiedad basica su tipo para poder parsearlo y devolviendo un tipo CartasYugiho.
+Más abajo tenemos todas las clases auxiliares utilizadas para parsear las propiedades
+
+Clase contenedora de los objetos de tipo Cartas.
+
+Propiedades:
+
+card, de tipo List<CartasYugiho>, consultable. Lista de CartasYugiho.
+Name, de tipo String , consultable. Nombre de la carta.
+Defensa, de tipo Integer, consultable. Valor de la defensa de la carta.
+Ataque, de tipo Integer, consultable. Valor del ataque de la carta.
+Constructores:
+
+C1: Constructor por defecto. Creal un objeto de tipo Cartas sin ninguna partida almacenada.
+C2: Constructor por defecto. Creal un objeto de tipo Cartas con la lista cartas implementada.
+C3: Constructor con un parámetro de tipo Collection<CartasYugiho>. Crea un objeto de tipo CartasYugiho con las cartas incluidas en la colección dada como parámetro.
+C4: Constructor con un parámetro de tipo Stream<CartasYugiho>. Crea un objeto de tipo CartasYugiho con las cartas incluidas en el Stream dado
+Criterio de igualdad: Dos partidas son iguales si lo son sus propiedades cartas.
+
+Otras operaciones:
+
+public void agregarCarta(CartasYugiho c): Añade una carta al objeto.
+public void eliminarCarta(CartasYugiho c): Elimina una carta al objeto.
+public void añadircoleccion(Collection<CartasYugiho> c): Añade una coleccion al objeto.
+public Double getPromedioNivelDeCartas(): Devuelve el promedio de nivel de todas las cartas.
+public String getCartasConDefensaN(Integer n): devuelve el nombre de las cartas con defensa = n.
+public String getCartasConAtaqueN(Integer n): devuelve el nombre de las cartas con ataque = n.
+public Boolean existeCartaConAtaque(Integer ataque): te devuelve si existe o no una carta con dicho ataque.
+public Boolean existeCartaConDefensa(Integer ataque): te devuelve si existe o no una carta con dicha defensa.
+public Double getPorcentajeHumanosPorNivel(Integer Level): introduciendo un nivel level , te devuelve el porcentaje de las cartas con dicho nivel cuyo valor esHumano es true. Si no hay devuelve no hay cartas humanas.
+public Double mediaAtaque(): devuelve la media de ataque.
+public Double mediaDefensa(): devuelve la media de defensa.
+public List<String> filtraSubtipos(String x): devuelve las cartas filtradas por su subtipo.
+private Map<String, Integer> getTotalDefensaAtaque(Predicate<CartasYugiho> filtro): asocia el nombre de la carta con su defensa y ataque.
+public Map<Integer, List<String>> getCartasPorNivel(Integer Level): devuelve un mapa con las cartas y su nivel.
+public Map<String, Integer> getCartasConMejorAtaque(Integer Attack): devuelve el nombre de la carta con el ataque que hayamos introducido.
+
+
