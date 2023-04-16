@@ -28,7 +28,7 @@ public class Cartas {
 		
 	
 	public Cartas(String Name,Integer Defense,Integer Attack) {
-		this.card= new ArrayList<CartasYugiho>();
+		//this.card= new ArrayList<CartasYugiho>();
 		this.Name=Name;
 		this.Defense=Defense;
 		this.Attack=Attack;
@@ -40,7 +40,7 @@ public class Cartas {
 		this.Name=Name;
 		this.Defense=Defense;
 		this.Attack=Attack;
-		
+		Checkers.check("ataque y defensa por debajo de 10000",Defense<10000 && Attack < 10000  );
 	}
 	public Cartas(Collection<CartasYugiho> card){
 		this.card= new ArrayList<CartasYugiho>(card);
@@ -156,18 +156,25 @@ public class Cartas {
 		return true;
 	}
 	
-	public Double getPorcentajeHumanosPorNivel(Integer Level) {
+	public String getPorcentajeHumanosPorNivel(Integer Level) {
 		Long cuenta = 0L;
 		Double res = 0.0;
+		String msj = "";
+		String sol="";
+		
 		for (CartasYugiho c : card) {
 			if (c.getEsHumano().equals(True()) && c.getLevel().equals(Level)) {
 				cuenta++;
 			}
 		}
-		if (getNumeroCartas()>0) {
+		if (cuenta>0) {
 			res = 100.* cuenta/getNumeroCartas();
+			sol= res.toString();
+		} else {
+			msj = "no hay cartas humanas";
+			sol = msj;
 		}
-		return res;
+		return sol;
 	}
 	
 	@Override
@@ -221,11 +228,12 @@ public List<String> filtraSubtipos(String x){
 	 * @return Un Map que asocia los ids de los usuarios con el número de victorias
 	 * que tras filtrar con el predicado dado como parámetro
 	 */
-	private Map<String, Integer> getTotalDefensaAtaque(Predicate<CartasYugiho> filtro) {
+	public Map<String, Integer> getTotalDefensaAtaque(Boolean filtro) {
 		Map<String, Integer> res = new HashMap<String,Integer>();
+		boolean aux = true;
 		for (CartasYugiho c: card) {
-			if (filtro.test(c)
-					) {
+			if (filtro = aux)
+					 {
 				String clave = c.getName();
 				if (res.containsKey(clave)) {
 					res.put(clave, c.getAttack()+c.getDefense());
@@ -275,7 +283,7 @@ public List<String> filtraSubtipos(String x){
 	//una propiedad del tipo base, y los valores el conteo o la suma de los objetos del tipo 
 	//base almacenados en el contenedor que tienen como valor esa propiedad
 	
-		public Map<String, Integer> getCartasConMejorAtaque(Integer Attack){
+public Map<String, Integer> getCartasConMejorAtaque(Integer Attack){
 			Integer contador= 0;
 			Predicate<CartasYugiho> filtro = c->c.getAttack() > Attack && c.getAttack()!= 0;
 			Map<String,Integer> CartasMejorAtaque = new HashMap<String, Integer>();

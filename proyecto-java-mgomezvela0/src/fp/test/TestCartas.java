@@ -19,22 +19,23 @@ public class TestCartas {
 			System.out.println(e1.toString());
 			System.out.println(e2.toString());
 			System.out.println("Get para e2");
-			System.out.println("1");
-			System.out.println(e2.getPorcentajeHumanosPorNivel(1));
-			System.out.println("2");
+			System.out.println(e2.getPorcentajeHumanosPorNivel(100));
+			
 			System.out.println(e2.getNumeroCartas());
-			System.out.println("3");
+			
 			System.out.println(e2.getPromedioNivelDeCartas());
-			System.out.println("4");
+			
 			System.out.println(e2.getCartasConAtaqueN(1));
-			System.out.println("5");
-			System.out.println("6");
+			
+			
 			System.out.println(e2.getCartasConMejorAtaque(1));
-			System.out.println("7");
+			
 			System.out.println(e2.filtraSubtipos("water"));
-			System.out.println("8");
+			for (CartasYugiho c: cartas) {
+			System.out.println(e2.getTotalDefensaAtaque(c.getAttack() > 0 ));
+			}
 			System.out.println(e2.mediaAtaque());
-			//System.out.println(cartas);
+			System.out.println(cartas);
 			
 			
 
