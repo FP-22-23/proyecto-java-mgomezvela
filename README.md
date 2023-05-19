@@ -103,5 +103,48 @@ public List<String> filtraSubtipos(String x): devuelve las cartas filtradas por 
 private Map<String, Integer> getTotalDefensaAtaque(Predicate<CartasYugiho> filtro): asocia el nombre de la carta con su defensa y ataque.
 public Map<Integer, List<String>> getCartasPorNivel(Integer Level): devuelve un mapa con las cartas y su nivel.
 public Map<String, Integer> getCartasConMejorAtaque(Integer Attack): devuelve el nombre de la carta con el ataque que hayamos introducido.
+ 
+ public List<String> getCartasConDefensaN(Integer n) :devuelve mediante streams las cartas que tengan n defensa
+ 
+ public String seleccionaMejorCarta() : devuelve mediante streams las cartas que tengan mejor ataque
+ 
+ public Boolean existeCartaConSubtipo(String patata) : devuelve mediante streams un booleano de si existe dicha carta
+ 
+ existeCartaConAtaque y existeCartaConDefensa funcionan de la misma manera
+ 
+ public Long NumeroCartasMismoNivel(Integer n) : mediante streams devuelve el numero de cartas con el mismo nivel
+ 
+ public Integer SumaAtaquesPorTipo(String patata) : mediante streams devuelve la suma de los ataques de x tipo
+ 
+ public Double AverageDefensaPorTipo(String patata) : devuelve mediante streams el average de la defensa de x tipo 
+ 
+ public List<String> CartasFiltradasPorNivelyDefensa(Integer n, Integer D): en base a un nivel y una defensa , usando streams te devuelve las cartas que pasen el filtro
+ 
+ public Integer filtradoAtaqueMaximo(String x): mediante streams devuelve las cartas con el valor maximo
+ 
+ public List<String> CartaPorNivelOrdenando(Integer l): devuelve mediante streams una lista de las cartas de dicho nivel
+ 
+ public List<String> CartaPorAtributo(String a) : usando el collector.mapping como se nos pide , devuelve una lista de las cartas por x atributo
+ 
+ public Map<Object, Object> CartaPorNivelMaximoAtaque(Integer l):te devuelve la carta cuyo nivel sea igual a l y su ataque sea el maximo
+ 
+ tiene un metodo auxiliar llamado ayuda que te devuelve el ataque maximo de dicha carta
+ 
+ public SortedMap<Object, Object> masAtaqueSegunNivel(Integer n): te devuelve un mapa con el mayor ataque respecto a cada nivel.
+ 
+ public Map<String, Integer> DefensaMasAltaPorAtributo(): te devuelve la mayor defensa en base a su atributo.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
