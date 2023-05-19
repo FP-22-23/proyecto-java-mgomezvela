@@ -301,7 +301,31 @@ public Map<String, Integer> getCartasConMejorAtaque(Integer Attack){
 			return CartasMejorAtaque;
 		}
 		
-		
+public Double getPromedioDefensaPorAtaque(Integer a) {
+	return card.stream().filter(p -> p.getAttack().equals(a))
+			.mapToInt(p -> p.getDefense()/getNumeroCartas())
+			.average()
+			.orElse(0);
+	
+}
+
+//public Map<Object, Long> contarCartasHumanasPorAtaqueYDefensa(Integer def, Integer ataq) {
+	//Predicate<CartasYugiho> filtro = p -> p.getAttack().equals(ataq) 
+		//	   && p.getDefense().equals(def) && p.getEsHumano().equals(ataq);
+	//return card.stream()
+		//	.filter(filtro)
+			//.collect(Collectors.groupingBy(p -> p.getAttack().equals(ataq) && p.getDefense().equals(def), 
+				//							Collectors.counting()));
+//}
+
+
+
+
+
+
+
+
+
 }
 	
 	
