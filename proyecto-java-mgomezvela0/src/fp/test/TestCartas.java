@@ -24,7 +24,8 @@ public class TestCartas {
 			System.out.println(e2.getPromedioNivelDeCartas());
 			System.out.println(e2.getCartasConAtaqueN(1));
 			System.out.println(e2.getCartasConMejorAtaque(1));
-			System.out.println(e2.filtraSubtipos("water"));
+			
+			System.out.println(e2.filtraSubtipos("Water"));
 			for (CartasYugiho c: cartas) {
 			System.out.println(e2.getTotalDefensaAtaque(c.getAttack() > 0 ));
 			}

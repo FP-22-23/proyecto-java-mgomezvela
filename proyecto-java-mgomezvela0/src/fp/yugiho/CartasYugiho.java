@@ -50,6 +50,7 @@ public class CartasYugiho {
 		
 	}
 	
+	
 	//Propiedad derivada
 	public Integer getProductoAtaqueyDefensa() {
 		return Attack+Defense;	

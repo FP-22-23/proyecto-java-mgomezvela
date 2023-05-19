@@ -1,6 +1,7 @@
 package fp.factoria;
 
 import java.io.IOException;
+
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.time.Duration;
@@ -12,6 +13,10 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+
+
+import fp.carta.Carta;
+import fp.cartas.Cartas;
 import fp.common.NombreDefensaAtaque;
 import fp.utiles.Checkers;
 import fp.utiles.Ficheros;
@@ -95,6 +100,25 @@ public class FactoriaCartasYugiho {
         LocalDate res = LocalDate.parse(s, DateTimeFormatter.ofPattern("dd/MM/yyyy"));
         return res;
     }
+	public static Cartas leerCarta(String nomfich) {
+		Cartas res=null;
+		int i=0;
+		try {
+			List<CartasYugiho>  cartitas=Files.lines(Paths.get(nomfich))
+					.skip(1)
+					.map(FactoriaCartas::parsearCartasYugiho)
+					.collect(Collectors.toList());
+			
+			res= new Cartas(cartitas);
+			
+			} catch(IOException e) {
+			System.out.println("Fichero no encontrado: "+nomfich);
+			e.printStackTrace();
+		}
+	return res;
+	}
+	
+	
 	}
 	
 }

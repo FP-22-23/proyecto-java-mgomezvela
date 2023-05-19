@@ -27,10 +27,46 @@ public class Carta {
 	
 	private List<CartasYugiho> card;
 	private String Name;
-	private Integer Defense;
+	private String Attributes;
+	private String SubTypes;
+	private Integer Level;
 	private Integer Attack;
+	private Integer Defense;
+	private Boolean EsHumano;
 		
 	
+	public String getAttributes() {
+		return Attributes;
+	}
+
+	public void setAttributes(String attributes) {
+		Attributes = attributes;
+	}
+
+	public String getSubTypes() {
+		return SubTypes;
+	}
+
+	public void setSubTypes(String subTypes) {
+		SubTypes = subTypes;
+	}
+
+	public Integer getLevel() {
+		return Level;
+	}
+
+	public void setLevel(Integer level) {
+		Level = level;
+	}
+
+	public Boolean getEsHumano() {
+		return EsHumano;
+	}
+
+	public void setEsHumano(Boolean esHumano) {
+		EsHumano = esHumano;
+	}
+
 	public Carta(String Name,Integer Defense,Integer Attack) {
 		//this.card= new ArrayList<CartasYugiho>();
 		this.Name=Name;
@@ -116,6 +152,19 @@ public class Carta {
 	}
 
 	
+	public Carta(List<CartasYugiho> card, String name, String attributes, String subTypes, Integer level,
+			Integer attack, Integer defense, Boolean esHumano) {
+	
+		this.card = card;
+		Name = name;
+		Attributes = attributes;
+		SubTypes = subTypes;
+		Level = level;
+		Attack = attack;
+		Defense = defense;
+		EsHumano = esHumano;
+	}
+
 	//funcion con existe / para todo.
 	public List<String> getCartasConDefensaN(Integer n){
 		
@@ -136,7 +185,7 @@ public class Carta {
 				
 			
 		
-		public String seleccionaMejorCarta(Integer n) {
+		public String seleccionaMejorCarta() {
 			return card.stream().sorted(Comparator.comparing(x -> x.getAttack()))
 			.map(x -> x.getName())
 			.findFirst()

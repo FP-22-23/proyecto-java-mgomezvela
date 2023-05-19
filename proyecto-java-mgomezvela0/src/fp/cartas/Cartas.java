@@ -150,6 +150,15 @@ public class Cartas {
     	return res;
     }
 	
+	public Boolean existeCartaConSubtipo(String patata) {
+    	Boolean res=false;
+    	for (CartasYugiho c: card) {
+    		if (c.getAttributes().equals(patata))
+    			res=true;
+    	}
+    	return res;
+    }
+	
 	// funcion con contador y suma 
 	
 	public boolean True() {
